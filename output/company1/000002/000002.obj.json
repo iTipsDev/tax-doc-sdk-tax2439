@@ -1,0 +1,47 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "67-526-9756",
+  "taxFormId" : "7883481",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0540244",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "White-Christiansen"
+    },
+    "address" : {
+      "line1" : "8041 Myesha Underpass",
+      "city" : "Framitown",
+      "region" : "OK",
+      "postalCode" : "42339"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "juliette.mckenzie@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-68-6591",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Marshall",
+      "last" : "Cartwright"
+    },
+    "address" : {
+      "line1" : "515 Wunsch Station",
+      "city" : "North Van",
+      "region" : "AK",
+      "postalCode" : "85041"
+    },
+    "email" : "clement.klocko@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "fiscalYearBegin" : "2025-09-16",
+  "fiscalYearEnd" : "2025-10-23",
+  "undistributedLongTermCapitalGains" : 200,
+  "unrecaptured1250Gain" : 300,
+  "section1202Gain" : 400,
+  "collectiblesGain" : 500,
+  "taxPaid" : 600
+}

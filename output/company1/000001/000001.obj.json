@@ -1,0 +1,47 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "75-320-9197",
+  "taxFormId" : "2442569",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0540244",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "White-Christiansen"
+    },
+    "address" : {
+      "line1" : "8041 Myesha Underpass",
+      "city" : "Framitown",
+      "region" : "OK",
+      "postalCode" : "42339"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "juliette.mckenzie@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-00-2609",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Gil",
+      "last" : "McCullough"
+    },
+    "address" : {
+      "line1" : "11664 Rashad Coves",
+      "city" : "New Billton",
+      "region" : "CA",
+      "postalCode" : "46147"
+    },
+    "email" : "holli.rosenbaum@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "fiscalYearBegin" : "2025-06-12",
+  "fiscalYearEnd" : "2025-08-05",
+  "undistributedLongTermCapitalGains" : 200,
+  "unrecaptured1250Gain" : 300,
+  "section1202Gain" : 400,
+  "collectiblesGain" : 500,
+  "taxPaid" : 600
+}

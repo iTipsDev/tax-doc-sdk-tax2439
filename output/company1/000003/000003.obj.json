@@ -1,0 +1,47 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "40-454-5637",
+  "taxFormId" : "8735545",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0540244",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "White-Christiansen"
+    },
+    "address" : {
+      "line1" : "8041 Myesha Underpass",
+      "city" : "Framitown",
+      "region" : "OK",
+      "postalCode" : "42339"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "juliette.mckenzie@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-29-9526",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Jerome",
+      "last" : "Vandervort"
+    },
+    "address" : {
+      "line1" : "1916 Mosciski Brooks",
+      "city" : "Langoshchester",
+      "region" : "KY",
+      "postalCode" : "85853"
+    },
+    "email" : "samual.steuber@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "fiscalYearBegin" : "2025-03-05",
+  "fiscalYearEnd" : "2025-03-25",
+  "undistributedLongTermCapitalGains" : 200,
+  "unrecaptured1250Gain" : 300,
+  "section1202Gain" : 400,
+  "collectiblesGain" : 500,
+  "taxPaid" : 600
+}
