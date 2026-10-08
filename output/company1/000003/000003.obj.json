@@ -1,0 +1,55 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "86-781-5541",
+  "taxFormId" : "6818214",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0547146",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Jenkins Group"
+    },
+    "address" : {
+      "line1" : "02314 Jospeh Highway",
+      "city" : "East Kaylene",
+      "region" : "NM",
+      "postalCode" : "44517",
+      "unitType" : "Apt",
+      "unitNumber" : "551"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "carrol.hintz@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-20-2944",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Bert",
+      "middle" : "Jospeh",
+      "last" : "Grimes"
+    },
+    "businessName" : {
+      "name1" : "West Group"
+    },
+    "address" : {
+      "line1" : "58257 Osinski Station",
+      "city" : "Bogisichtown",
+      "region" : "LA",
+      "postalCode" : "26470",
+      "unitType" : "Apt",
+      "unitNumber" : "183"
+    },
+    "email" : "tessie.harber@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "fiscalYearBegin" : "2026-02-25",
+  "fiscalYearEnd" : "2026-01-10",
+  "undistributedLongTermCapitalGains" : 200,
+  "unrecaptured1250Gain" : 300,
+  "section1202Gain" : 400,
+  "collectiblesGain" : 500,
+  "taxPaid" : 600
+}

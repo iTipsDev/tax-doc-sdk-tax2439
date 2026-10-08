@@ -1,0 +1,55 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "19-966-3785",
+  "taxFormId" : "3598478",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0547146",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Jenkins Group"
+    },
+    "address" : {
+      "line1" : "02314 Jospeh Highway",
+      "city" : "East Kaylene",
+      "region" : "NM",
+      "postalCode" : "44517",
+      "unitType" : "Apt",
+      "unitNumber" : "551"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "carrol.hintz@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-03-7839",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Trent",
+      "middle" : "Chase",
+      "last" : "Wolff"
+    },
+    "businessName" : {
+      "name1" : "Stark, Armstrong and King"
+    },
+    "address" : {
+      "line1" : "837 Noah Plain",
+      "city" : "Jonieburgh",
+      "region" : "VT",
+      "postalCode" : "13108",
+      "unitType" : "Apt",
+      "unitNumber" : "790"
+    },
+    "email" : "alberta.powlowski@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "fiscalYearBegin" : "2026-11-20",
+  "fiscalYearEnd" : "2026-02-06",
+  "undistributedLongTermCapitalGains" : 200,
+  "unrecaptured1250Gain" : 300,
+  "section1202Gain" : 400,
+  "collectiblesGain" : 500,
+  "taxPaid" : 600
+}

@@ -1,0 +1,55 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "59-441-3321",
+  "taxFormId" : "0070696",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0547146",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Jenkins Group"
+    },
+    "address" : {
+      "line1" : "02314 Jospeh Highway",
+      "city" : "East Kaylene",
+      "region" : "NM",
+      "postalCode" : "44517",
+      "unitType" : "Apt",
+      "unitNumber" : "551"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "carrol.hintz@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-72-0739",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Fred",
+      "middle" : "Harry",
+      "last" : "O'Conner"
+    },
+    "businessName" : {
+      "name1" : "Smith, Simonis and Kulas"
+    },
+    "address" : {
+      "line1" : "7332 Adelle Greens",
+      "city" : "Lake Dwayneburgh",
+      "region" : "NV",
+      "postalCode" : "00606",
+      "unitType" : "Apt",
+      "unitNumber" : "369"
+    },
+    "email" : "laurence.larkin@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "fiscalYearBegin" : "2026-09-17",
+  "fiscalYearEnd" : "2026-01-25",
+  "undistributedLongTermCapitalGains" : 200,
+  "unrecaptured1250Gain" : 300,
+  "section1202Gain" : 400,
+  "collectiblesGain" : 500,
+  "taxPaid" : 600
+}
